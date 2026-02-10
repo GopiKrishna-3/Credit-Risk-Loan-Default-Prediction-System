@@ -50,5 +50,5 @@ This system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Niharika1495/Credit-Risk-and-Loan-Approval-System.git
+   git clone https://github.com/GopiKrishna-3/Credit-Risk-Loan-Default-Prediction-System.git
    cd Credit-Risk-and-Loan-Approval-System
